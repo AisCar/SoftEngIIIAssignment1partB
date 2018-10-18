@@ -14,7 +14,7 @@
   <dependencies>
     <dependency>
       <groupId>com.github.AisCar</groupId>
-      <artifactId>ct417SoftEngIII_Assignment1</artifactId>
+      <artifactId>SoftEngIIIAssignment1partA</artifactId>
       <version>master-SNAPSHOT</version>
   	</dependency>
   </dependencies>
